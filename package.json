@@ -1,6 +1,6 @@
 {
   "name": "cordova-admob-sdk",
-  "version": "0.24.1",
+  "version": "1.0.0",
   "description": "Google AdMob SDK to Cordova.",
   "scripts": {
     "version": "sync-package-version --cordova-plugin"
@@ -18,7 +18,7 @@
       "ios"
     ]
   },
-  "repository": "https://gitlab.com/ratson/cordova-admob-sdk",
+  "repository": "https://github.com/pw-repo/cordova-admob-sdk",
   "keywords": [
     "cordova",
     "ecosystem:cordova",
@@ -29,7 +29,7 @@
     "google",
     "sdk"
   ],
-  "author": "Ratson",
+  "author": "pw-repo",
   "license": "MIT",
   "files": [
     "*.js",
